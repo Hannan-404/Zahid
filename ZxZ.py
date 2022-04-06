@@ -1,3 +1,2 @@
-from ZR import login
-login()
-
+import ZR
+ZR.__crack__().plerr()
